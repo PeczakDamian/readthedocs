@@ -9,4 +9,5 @@ Kolejne podstrony zawierają
  * zadanie 
 
 .. toctree::
-    index
+    about
+    task
