@@ -40,11 +40,13 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
 `Link zewnętrzny <https://github.com/PeczakDamian>`_
 
 Lista numerowana:
+
 1. Punkt pierwszy.
 #. Punkt drugi.
 #. Punkt trzeci.
 
 Lista nienumerowana:
+
 *. Punkt pierwszy.
 *. Punkt drugi.
 *. Punkt trzeci.
