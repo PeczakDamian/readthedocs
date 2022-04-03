@@ -41,15 +41,15 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
 
 Lista numerowana:
 
-1. Punkt pierwszy.
-#. Punkt drugi.
-#. Punkt trzeci.
+1. Punkt pierwszy
+#. Punkt drugi
+#. Punkt trzeci
 
 Lista nienumerowana:
 
-*. Punkt pierwszy.
-*. Punkt drugi.
-*. Punkt trzeci.
+* Punkt pierwszy
+* Punkt drugi
+* Punkt trzeci
 
 .. image:: image.png
   :alt: Alternatywny tekst 
