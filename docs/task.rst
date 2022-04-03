@@ -37,7 +37,7 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
     
 :ref:`InFileRef`
 
-`Link zewnętrzny <github.com/PeczakDamian>`_
+`Link zewnętrzny <www.github.com/PeczakDamian>`_
 
 Lista numerowana:
 #. Punkt 1.
