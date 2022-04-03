@@ -41,7 +41,7 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
 
 Lista numerowana:
 
-1. Punkt pierwszy
+#. Punkt pierwszy
 #. Punkt drugi
 #. Punkt trzeci
 
