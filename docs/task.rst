@@ -21,3 +21,15 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
 
 .. note::
   Notka wyświetlająca się pod niebieskim paskiem
+  
+.. tip::
+  Podpowiedź wyświetlająca się pod zielonym paskiem
+  
+.. code:: html
+  <tag></tag>  
+
+.. block::
+  <tag></tag>  
+  <tag></tag>  
+  <tag></tag>  
+  
