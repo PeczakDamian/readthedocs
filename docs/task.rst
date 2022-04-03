@@ -24,5 +24,5 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
 .. tip::
   Podpowiedź wyświetlająca się pod zielonym paskiem
   
-.. code block:: html
+.. code-block:: html
   <tag></tag>  
