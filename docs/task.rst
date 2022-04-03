@@ -51,7 +51,7 @@ Lista nienumerowana:
 *. Punkt 3.
 *. Punkt 4.
 
-.. image:: img/image.png
+.. image:: image.png
   :alt: Alternatywny tekst 
   
 .. list-table:: Tabela
