@@ -10,5 +10,3 @@ Kolejne podstrony zawierają
 
 .. toctree::
     index
-    about
-    task
