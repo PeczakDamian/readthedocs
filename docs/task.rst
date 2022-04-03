@@ -1,9 +1,9 @@
-Zadanie
-=======
-
-^Nagłówek 1 poziomu^
+Zadanie - notatka
+=================
 
 Składnie elementów dokumentu
+
+.. _InFileRef:
 
 Nagłówek 2 poziomu
 ******************
@@ -19,10 +19,51 @@ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 .. note::
+
   Notka wyświetlająca się pod niebieskim paskiem
   
 .. tip::
+
   Podpowiedź wyświetlająca się pod zielonym paskiem
   
-.. code-block:: html
-  <tag></tag>  
+.. code-block:: bash
+
+  sudo apt-get install python3
+  
+.. code:: python
+
+  def myfunc(x, y=2):
+    return x + y
+    
+:ref:`InFileRef`
+
+`Link zewnętrzny <github.com/PeczakDamian>`_
+
+Lista numerowana:
+#. Punkt 1.
+#. Punkt 2.
+#. Punkt 3.
+#. Punkt 4.
+
+Lista nienumerowana:
+*. Punkt 1.
+*. Punkt 2.
+*. Punkt 3.
+*. Punkt 4.
+
+.. image:: img/image.png
+  :alt: Alternatywny tekst 
+  
+.. list-table:: Tabela
+  :widths: 20 20 40
+  :header-rows: 1
+  
+  * - Heading row 1, col 1
+    - Heading row 1, col 2
+    - Heading row 1, col 3
+  * - Row 1, col 1
+    -
+    - Row 1, col 3
+  * - Row 2, col 1
+    - Row 2, col 2
+    - Row 2, col 3
