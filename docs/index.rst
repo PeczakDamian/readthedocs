@@ -1,7 +1,12 @@
 Strona główna!!!
 ================
 
-Lorem ipsum
+Dokumentacja
+~~~~~~~~~~~~
+
+Kolejne podstrony zawierają
+ * informacje o autorze
+ * zadanie 
 
 .. toctree::
     index
